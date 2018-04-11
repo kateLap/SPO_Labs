@@ -1,0 +1,4 @@
+Tea 5
+Meat 10
+Pasta 4
+Soop 8
